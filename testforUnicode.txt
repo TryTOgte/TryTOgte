@@ -1,1 +1,1 @@
-﻿dmxlc3M6Ly8yODY3ZGNjOS04NDY1LTRhNmYtYWVhMy1kMmQ1OGFmYThlZTZAMTA0LjE2LjM4Ljk4OjQ0Mz90eXBlPXdzJnNlY3VyaXR5PXRscyZwYXRoPSUyRnZwc3dzJTNGZWQlM0QyMDQ4Jmhvc3Q9d2ludGVyLWZpZWxkLTUzM2UuaGVvbGFuMTk5OW4ud29ya2Vycy5kZXYmc25pPXdpbnRlci1maWVsZC01MzNlLmhlb2xhbjE5OTluLndvcmtlcnMuZGV2JmFscG49I2dldG5hbS5nYV9WTEVTU19XUw==
+vless://2867dcc9-8465-4a6f-aea3-d2d58afa8ee6@104.16.38.98:443?type=ws&security=tls&path=%2Fvpsws%3Fed%3D2048&host=winter-field-533e.heolan1999n.workers.dev&sni=winter-field-533e.heolan1999n.workers.dev&alpn=#getnam.ga_VLESS_WS
