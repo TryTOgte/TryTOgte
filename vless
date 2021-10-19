@@ -1,3 +1,0 @@
-vless://2867dcc9-8465-4a6f-aea3-d2d58afa8ee6@getnam.ga:443?encryption=none&security=tls&type=ws&host=getnam.ga&sni=getnam.ga&path=%2fvpsws?ed=2048#getnam.ga_VLESS_WS
-vless://2867dcc9-8465-4a6f-aea3-d2d58afa8ee6@winter-field-533e.heolan1999n.workers.dev:443?type=ws&security=tls&path=%2Fvpsws%3Fed%3D2048&host=winter-field-533e.heolan1999n.workers.dev&sni=winter-field-533e.heolan1999n.workers.dev&alpn=#getnam.ga_VLESS_WS-ip
-vless://2867dcc9-8465-4a6f-aea3-d2d58afa8ee6@104.16.38.98:443?type=ws&security=tls&path=%2Fvpsws%3Fed%3D2048&host=winter-field-533e.heolan1999n.workers.dev&sni=winter-field-533e.heolan1999n.workers.dev&alpn=#getnam.ga_VLESS_WS
