@@ -1,1 +1,1 @@
-vless://7505c920-573c-4c60-8727-dbdc0c794e07@young-hill-35fd.heolan1999n.workers.dev:443?type=ws&security=tls&path=%2Fvarws%3Fed%3D2048&host=young-hill-35fd.heolan1999n.workers.dev&sni=young-hill-35fd.heolan1999n.workers.dev&alpn=#free.getnam.tk_VLESS_WS_IP
+vless://18650d3d-e137-470d-aa92-6ffc46711e16@production.young-hill-35fd.heolan1999n.workers.dev:443?type=ws&security=tls&path=%2Fvarws%3Fed%3D2048&host=production.young-hill-35fd.heolan1999n.workers.dev&sni=production.young-hill-35fd.heolan1999n.workers.dev&alpn=#bilibili.getnam.tk_VLESS_WS-IP
