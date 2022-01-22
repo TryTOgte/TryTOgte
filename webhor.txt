@@ -1,1 +1,2 @@
 vless://3a225c27-a7c3-4310-b931-cf55aae021d8@heolan.eu.org:443?headerType=none&type=tcp&encryption=none&flow=xtls-rprx-direct&security=xtls&sni=heolan.eu.org#heolan.eu.org_VLESS_XTLS/TLS-direct_TCP
+vless://3a225c27-a7c3-4310-b931-cf55aae021d8@red-waterfall-e9e3.heolan1999n.workers.dev:443?host=red-waterfall-e9e3.heolan1999n.workers.dev&path=%2Fvarws&type=ws&encryption=none&security=tls&sni=red-waterfall-e9e3.heolan1999n.workers.dev#heolan.eu.org_VLESS_WS_IP
