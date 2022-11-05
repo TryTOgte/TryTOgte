@@ -1,3 +1,1 @@
-vless://3a225c27-a7c3-4310-b931-cf55aae021d8@heolan.eu.org:443?headerType=none&type=tcp&encryption=none&flow=xtls-rprx-direct&security=xtls&sni=heolan.eu.org#heolan.eu.org_VLESS_XTLS/TLS-direct_TCP
-vless://3a225c27-a7c3-4310-b931-cf55aae021d8@red-waterfall-e9e3.heolan1999n.workers.dev:443?host=red-waterfall-e9e3.heolan1999n.workers.dev&path=%2Fvarws&type=ws&encryption=none&security=tls&sni=red-waterfall-e9e3.heolan1999n.workers.dev#heolan.eu.org_VLESS_WS_IP
-url:https://heolan.eu.org/s/heolan.eu.org_5357835df0c4941ef472b4cb4bd40e0f
+vless://1fc23a23-c929-4185-b956-3bf8ec7499bb@heo.accesscam.org:443?host=heo.accesscam.org&path=%2Fsbzdws&type=ws&encryption=none&security=tls&sni=heo.accesscam.org#heo.accesscam.org_VLESS_WS
